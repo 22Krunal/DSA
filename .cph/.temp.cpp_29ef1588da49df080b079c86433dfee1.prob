@@ -1,0 +1,1 @@
+{"name":"Local: temp","url":"c:\\Users\\Lenovo\\Documents\\code_files\\VsCode\\cpp\\dsa_course\\temp.cpp","tests":[{"id":1655050258114,"input":"1\n5\n78 88 35 25 67","output":"25 35 67 78 88"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Lenovo\\Documents\\code_files\\VsCode\\cpp\\dsa_course\\temp.cpp","group":"local","local":true}
